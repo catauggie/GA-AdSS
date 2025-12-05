@@ -36,18 +36,18 @@ To run the experiments, the following external dependencies are required:
 
 ### 1. **CEC 2017 Benchmark Suite (Python implementation)**  
    Required for all test functions:
-   > D. T. <CEC 2017 implementation> (official benchmark package)
+   > D. T. <CEC 2017 implementation> ([official benchmark package](https://github.com/tilleyd/cec2017-py))
 
    The functions are expected to be available under:
    ```python
    from cec2017 import basic, transforms
-   
+   ```
 ### 2. thefittest Python library  
 Required for the SelfCGA implementation:
 
 ```bash
 pip install thefittest
-
+```
 
 
 ### 3. Standard scientific Python stack
