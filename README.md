@@ -51,8 +51,9 @@ pip install thefittest
 
 
 ### 3. Standard scientific Python stack
-
+```
 numpy
 scipy
 scikit-learn
 matplotlib
+```
