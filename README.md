@@ -1,4 +1,4 @@
-# Adaptive Search-Space Scaling for Genetic Algorithms
+# Adaptive Search-Space Scaling (AdSS) for Genetic Algorithms
 
 This repository contains the source code, experimental scripts, and visualisation results associated with the study on adaptive search-space scaling for genetic algorithms and self-configuring evolutionary algorithms.
 
@@ -43,7 +43,7 @@ To run the experiments, the following external dependencies are required:
    from cec2017 import basic, transforms
    ```
 ### 2. thefittest Python library  
-Required for the SelfCGA implementation:
+Full description on https://github.com/sherstpasha/thefittest. Required for the SelfCGA implementation:
 
 ```bash
 pip install thefittest
